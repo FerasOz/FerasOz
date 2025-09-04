@@ -18,7 +18,7 @@
 
 ###
 
-<h5 align="left">👋 Hello! I'm an IT student, specializing in Mobile App Development. I have a strong interest in building modern, efficient, and user-friendly mobile applications.<br><br>💡 I enjoy solving problems, learning new technologies, and continuously improving my coding skills. My journey includes working on personal projects, exploring best practices, and keeping up with the latest trends in mobile app development.<br><br>🔭 I’m currently working at upwork</h5>
+<h5 align="left">👋 Hello! I'm an IT student, specializing in Mobile App Development. I have a strong interest in building modern, efficient, and user-friendly mobile applications.<br><br>💡 I enjoy solving problems, learning new technologies, and continuously improving my coding skills. My journey includes working on personal projects, exploring best practices, and keeping up with the latest trends in mobile app development.<br><br>
 
 ###
 
