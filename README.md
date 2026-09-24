@@ -1,110 +1,144 @@
-<h2 align="center">Hi there👋! My name is Feras</h2>
+<h1 align="center">Hi 👋, I'm Feras Osama</h1>
 
-###
+<h3 align="center">Junior Flutter Developer | Flutter & Dart</h3>
 
-<h3 align="left">🚀 About Me ...</h3>
+<p align="center">
+  🇵🇸 Palestine
+</p>
 
-###
+---
 
-<h5 align="left">👋 Hello! I'm an IT student, specializing in Mobile App Development. I have a strong interest in building modern, efficient, and user-friendly mobile applications.<br><br>💡 I enjoy solving problems, learning new technologies, and continuously improving my coding skills. My journey includes working on personal projects, exploring best practices, and keeping up with the latest trends in mobile app development.<br><br>
+## 👨‍💻 About Me
 
-###
+I'm a Junior Flutter Developer with a B.Sc. background in Mobile Computing and Smart Device Applications.
 
-<h3 align="left">- 📱🛠️ Tech Stack ...</h3>
+I build cross-platform mobile applications using Flutter and Dart, with a focus on:
 
-###
+- 📱 Flutter & Dart
+- 🧠 BLoC / Cubit
+- 🌐 REST APIs
+- ☁️ Firebase & Supabase
+- 💾 Local Storage & Offline-first applications
+- 🏗️ Practical application architecture
+- 🌍 Arabic / English localization
 
-<br clear="both">
+I'm currently looking for junior Flutter opportunities, internships, and real-world projects where I can contribute and continue developing my skills.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-</div>
+---
 
-###
+## 🛠️ Tech Stack
 
-<br clear="both">
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" alt="dart" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" alt="android studio" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode" />
+</p>
 
-<h3 align="left">- 🎯🌱Have a little experience in ...</h3>
+**Core:** Flutter · Dart · BLoC · Cubit · GetIt
 
-###
+**Backend & Data:** Supabase · Firebase · REST APIs · Dio · Retrofit · Hive · SharedPreferences
 
-<br clear="both">
+**Other:** flutter_map · OpenStreetMap · Git · GitHub · Postman
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+---
 
-###
+## 🚀 Featured Projects
 
-<br clear="both">
+### 💰 SpendWise
 
-<h3 align="left">- 📞📬 Let's Contact ...</h3>
+Offline-first personal finance and subscription tracking application.
 
-###
+**Flutter · BLoC/Cubit · Hive · Supabase · GetIt · fl_chart**
 
-<br clear="both">
+- Expense and budget management
+- Recurring expenses
+- Spending insights and charts
+- Offline-first local storage
+- Optional Supabase synchronization
+- CSV, JSON and PDF export
+- Arabic / English localization
+- Light / Dark / System themes
 
-<div align="left">
+🔗 **[View Repository](YOUR_SPENDWISE_REPOSITORY_LINK)**
+
+---
+
+### 🎬 CineScope
+
+Movie discovery application powered by the TMDB API.
+
+**Flutter · BLoC/Cubit · Dio · Retrofit · TMDB · Hive**
+
+- Movie discovery and search
+- Movie details, cast and reviews
+- Per-user watchlists
+- Local authentication/session persistence
+- API integration and state management
+
+🔗 **[View Repository](YOUR_CINESCOPE_REPOSITORY_LINK)**
+
+---
+
+### 📦 Order Tracking App
+
+A functional order-tracking prototype built to explore maps and location-based workflows.
+
+**Flutter · Firebase · flutter_map · OpenStreetMap · GetIt**
+
+- Firebase Authentication
+- Firestore data management
+- Order creation and tracking workflows
+- Destination selection
+- Search by order ID
+- Map-based order visualization
+
+🔗 **[View Repository](YOUR_ORDER_TRACKING_REPOSITORY_LINK)**
+
+---
+
+### ✅ Habit Tracker
+
+Bilingual habit-tracking application with local persistence.
+
+**Flutter · Cubit · SharedPreferences · easy_localization**
+
+- Daily habit tracking
+- Weekly targets
+- Streaks and 28-day consistency
+- Arabic / English localization
+- Light / Dark themes
+- Local data persistence
+
+🔗 **[View Repository](YOUR_HABIT_TRACKER_REPOSITORY_LINK)**
+
+---
+
+## 🎓 Education
+
+**The Islamic University of Gaza**
+
+B.Sc. in Information Technology  
+Mobile Computing and Smart Device Applications
+
+GPA: **84.68%**
+
+---
+
+## 📫 Contact
+
+<p align="left">
   <a href="https://www.linkedin.com/in/feras-osama-abu-zayed-187722240/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ferasosama99@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:ferasosama99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=frs.oz&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
-
-###
-
-<h3 align="left">- 📈📊 Status ...</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FerasOz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FerasOz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FerasOz/FerasOz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FerasOz/FerasOz/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/FerasOz/FerasOz/output/github-snake.svg" />
-</picture>
-
-###
+</p>
