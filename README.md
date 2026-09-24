@@ -83,23 +83,6 @@ Movie discovery application powered by the TMDB API.
 
 ---
 
-### 📦 Order Tracking App
-
-A functional order-tracking prototype built to explore maps and location-based workflows.
-
-**Flutter · Firebase · flutter_map · OpenStreetMap · GetIt**
-
-- Firebase Authentication
-- Firestore data management
-- Order creation and tracking workflows
-- Destination selection
-- Search by order ID
-- Map-based order visualization
-
-🔗 **[View Repository](https://github.com/FerasOz/order_tracking_app)**
-
----
-
 ### ✅ Habit Tracker
 
 Bilingual habit-tracking application with local persistence.
