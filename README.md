@@ -2,10 +2,6 @@
 
 <h3 align="center">Junior Flutter Developer | Flutter & Dart</h3>
 
-<p align="center">
-  🇵🇸 Palestine
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -58,7 +54,7 @@ Offline-first personal finance and subscription tracking application.
 
 **Flutter · BLoC/Cubit · Hive · Supabase · GetIt · fl_chart**
 
-- Expense and budget management
+- Expense, categories, and budget management
 - Recurring expenses
 - Spending insights and charts
 - Offline-first local storage
@@ -67,7 +63,7 @@ Offline-first personal finance and subscription tracking application.
 - Arabic / English localization
 - Light / Dark / System themes
 
-🔗 **[View Repository](YOUR_SPENDWISE_REPOSITORY_LINK)**
+🔗 **[View Repository](https://github.com/FerasOz/spend_wise)**
 
 ---
 
@@ -83,7 +79,7 @@ Movie discovery application powered by the TMDB API.
 - Local authentication/session persistence
 - API integration and state management
 
-🔗 **[View Repository](YOUR_CINESCOPE_REPOSITORY_LINK)**
+🔗 **[View Repository](https://github.com/FerasOz/cine_scope)**
 
 ---
 
@@ -100,7 +96,7 @@ A functional order-tracking prototype built to explore maps and location-based w
 - Search by order ID
 - Map-based order visualization
 
-🔗 **[View Repository](YOUR_ORDER_TRACKING_REPOSITORY_LINK)**
+🔗 **[View Repository](https://github.com/FerasOz/order_tracking_app)**
 
 ---
 
@@ -117,7 +113,7 @@ Bilingual habit-tracking application with local persistence.
 - Light / Dark themes
 - Local data persistence
 
-🔗 **[View Repository](YOUR_HABIT_TRACKER_REPOSITORY_LINK)**
+🔗 **[View Repository](https://github.com/FerasOz/habit_tracker)**
 
 ---
 
