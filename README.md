@@ -46,7 +46,7 @@ I'm currently looking for junior Flutter developer opportunities, internships, a
 
 **Backend & APIs:** Firebase · Supabase · REST APIs · Dio · Retrofit
 
-**Local Storage:** Hive · SharedPreferences
+**Local Storage:** Hive · SharedPreferences · Sqflite
 
 **Tools:** Git · GitHub · Postman · Android Studio · VS Code
 
